@@ -4,3 +4,5 @@ Thanks for choosing Git!
 
 Cordialement,
 blablabla
+
+Au revoir !!!!
